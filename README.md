@@ -5,8 +5,7 @@ This project analyzes Amazon product data and presents insights using interactiv
 ## 📁 Project Structure
 
 - `Amazon.py` - Main script for data loading, processing, and dashboard rendering.
-- `data/` - Contains cleaned and raw product data (optional).
-- `assets/` - Custom styling and images for Dash (if used).
+
 
 ## 🚀 Features
 
